@@ -1,4 +1,6 @@
-body{padding: 0%; margin: 0%;}
+body{padding: 0%; margin: 0%;
+    text-align: justify;
+    font-family: Inter;}
 
 /*page 1*/
 #page1{}
@@ -27,7 +29,7 @@ body{padding: 0%; margin: 0%;}
     text-align:center;
     justify-content: center;}
 
-.Dedal{display: flex;
+.Dedal{display:flex;
     justify-content: center;}
 .des{color: #8C01E1;padding : 1%}
 
