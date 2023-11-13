@@ -21,7 +21,9 @@ body{padding: 0%; margin: 0%;
 
 #menu a:hover{color: #8C01E1;}
 
-#titre {margin: 5%;
+#titre {display: flex;
+    flex-direction:column;
+    margin: 5%;
     padding: 3%;
     width: 35%;
     height:500px;
