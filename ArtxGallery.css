@@ -38,6 +38,7 @@ body{padding: 0%; margin: 0%;
     padding-right: 1%;}
 h4{text-align:center}
 
+/*page 2*/
 
 #contenu {padding: 2%; 
     background-color: #606082;
@@ -50,7 +51,7 @@ h4{text-align:center}
     }
 #oeuvre img{height: 332px;border-radius: 27px;}
 
-  /*  text-decoration: none;
+  /*  
     overflow: scroll
     align-content: flex-end;
 
