@@ -51,6 +51,12 @@ h4{text-align:center}
     }
 #oeuvre img{height: 332px;border-radius: 27px;}
 
+#copyright{background-color: #30223e;
+    border-radius: 26px;
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center;}
+
   /*  
     overflow: scroll
     align-content: flex-end;
