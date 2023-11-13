@@ -9,13 +9,15 @@ body{padding: 0%; margin: 0%;}
 
 #menu{display: flex; 
     width: 85%;
-    text-decoration: none;
     background-color: #D9D9D9;
     border-radius :26px; 
     padding:1% ; 
     justify-content:space-evenly}
 
-#menu a::after{text-decoration: underline solid #606082;color: #606082;}
+#menu a{text-decoration: none;
+    color: black;}
+
+#menu a:hover{color: #8C01E1;}
 
 #titre {margin: 5%;
     width: 35%;
