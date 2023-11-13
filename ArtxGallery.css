@@ -56,7 +56,7 @@ h4{text-align:center}
     border-radius: 26px;
     display: flex; 
     flex-direction: column; 
-    justify-content: center;}
+    justify-content: center;margin-top: -10%;}
 
   /*  
     overflow: scroll
