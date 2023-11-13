@@ -1,6 +1,7 @@
 body{padding: 0%; margin: 0%;
     text-align: justify;
     font-family:Inter;}
+p{font-size: 14px;}
 
 /*page 1*/
 #page1{}
@@ -53,7 +54,7 @@ h4{text-align:center}
 #oeuvre img{height: 332px;border-radius: 27px;}
 
 #copyright{background-color: #30223e;
-    border-radius: 26px;
+    border-radius: 26px 26px 0px 0px;
     display: flex; 
     flex-direction: column; 
     justify-content: center;margin-top: -10%;}
