@@ -80,10 +80,18 @@ h4 {
   overflow: scroll;
   margin: 2%;
 }
-#oeuvre img {
-  height: 332px;
+#oeuvre img {width: 311px;
+  height: 331.681px;
   border-radius: 27px;
-}
+  margin-right: 37px;}
+
+#citation {color:#C4C5FF;font-size:}
+#auteur {}
+
+#oeuvreartistes {display: flex;}
+
+#oeuvreartistes img{width: 254px;
+  border-radius: 34px; }
 
 #copyright {
   background-color: #30223e;
