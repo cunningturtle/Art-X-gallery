@@ -90,7 +90,7 @@ h4 {
 
 #artistes img{width: :292px;
   height: 312.231px;
-  border-radius: 27px;}
+  border-radius: 27px; margin-right:37px}
 
 #oeuvreartistes {display: flex;}
 
