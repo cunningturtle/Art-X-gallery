@@ -86,7 +86,11 @@ h4 {
   margin-right: 37px;}
 
 #citation {color:#C4C5FF;font-size:}
-#auteur {}
+#auteur {font-size: 20px;}
+
+#artistes img{width: :292px;
+  height: 312.231px;
+  border-radius: 27px;}
 
 #oeuvreartistes {display: flex;}
 
