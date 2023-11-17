@@ -9,7 +9,7 @@ p {
 }
 
 /*page 1*/
-#page1 {background-image: src="imagess/fond.png"; background-color: #bc5959;
+#page1 {background-image: href="imagess/fond.png"; background-color: #bc5959;
 }
 
 #barre {
