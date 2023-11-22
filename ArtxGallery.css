@@ -97,8 +97,12 @@ h4 {
 #oeuvreartistes img{width: 254px;
   border-radius: 34px; }
 
+#Artiste{display:flex}
+
 #Artiste img{width: 348px;
-height: 340.421px;}
+             height: 340.421px;
+             flex-shrink: 0;
+             border-radius: 34px;}
 
 #copyright {
   background-color: #30223e;
