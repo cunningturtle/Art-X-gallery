@@ -9,7 +9,10 @@ p {
 }
 
 /*page 1*/
-#page1 {background-image: url("imagess/fond.png"); background-color: #bc5959;
+#page1 {background-image: url("imagess/fond.png"); 
+        background-color: #C4C5FF;
+        background-repeat: no-repeat;
+        background-size: 90rem;
 }
 
 #barre {
