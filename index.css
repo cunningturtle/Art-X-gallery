@@ -5,9 +5,9 @@ body {
   margin: 0%;
   text-align: justify;
   font-family: Inter;
-  background-color: #30223E
-  display: flex;
-  align-items: center;
+  background-color: #30223E;
+  display:flex;
+  align-items:center;
 } 
 img{
     width: 25.875rem;
