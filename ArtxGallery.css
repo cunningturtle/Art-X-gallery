@@ -89,6 +89,9 @@ height: 20.73006rem;
 
 
 /*artistes*/
+#artistes{display: flex;
+    overflow: scroll;}
+
 #artistes img{margin-right: 37px;
               width: 18.25rem;
               height: 19.51444rem;
