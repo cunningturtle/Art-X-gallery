@@ -102,6 +102,8 @@ height: 20.73006rem;
 
 /*artiste page indiviuel*/
 #Artiste {display:flex}
+#artistetext{margin: 1% 5% 1% 5%}
+#artistetext h3{text-decoration-line: underline;}
 
 #Artiste img{width: 21.75rem;
              height: 21.8125rem;
