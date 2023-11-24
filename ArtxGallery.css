@@ -13,13 +13,13 @@ p {
 #page1 {background-image: url("imagess/fond.png"); 
         background-color: #C4C5FF;
         background-repeat: no-repeat;
-        background-size: 90rem;
 }
 
 #barre {
   display: flex;
   justify-content: center;
-  margin-top: 1%;
+  padding-top: 1%;
+  margin-bottom: 3%;
 }
 
 #menu {
@@ -43,15 +43,14 @@ p {
 #titre {
   display: flex;
   flex-direction: column;
-  margin: 5%;
   padding: 3%;
   width: 35%;
   height: 500px;
   border-radius: 26px;
   background-color: #c6c6f1;
   justify-content: center;
-  align-items: center;
-}
+  margin-left: 50%;}
+
 h1 {
   font-size: 2.5em;
 }
