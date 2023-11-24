@@ -65,7 +65,8 @@ h1 {
   padding-left: 1%;
   padding-right: 1%;}
 
-h4 {
+h4 {margin: -10px;
+   font-size: 1.25rem;
   text-align: center;}
 
 /*page 2*/
@@ -114,16 +115,21 @@ height: 20.73006rem;
 #oeuvreartistes {display: flex;}
 
 #oeuvreartistes img{width: 15.875rem;
-height: 15.95725rem; }
+                    height: 15.95725rem;
+                    margin-right: 10px }
 
 /*a propos*/
 #Apropos {display:flex}
 #Apropos img{width: 24.1875rem;
 height: 36.25rem;
 border-radius: 2.0625rem;}
+#Apropos section{margin: 5%;}
 
 /*formulaire*/
-#Formulaire{margin:  100px 50px 230px 50px;}
+#Formulaire{margin:  100px 50px 230px 50px;
+            align-items: center;
+            flex-direction: column;
+            display: flex;}
 
 #Formulaire div{border-radius: 18px;
                 background: #C6C6F1;
