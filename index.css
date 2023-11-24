@@ -7,9 +7,10 @@ body {
   font-family: Inter;
   background-color: #30223E
 } 
-img{margin-right: 37px;
-              width: 18.25rem;
-              height: 19.51444rem;
-              border-radius: 1.6875rem;}
+img{
+    width: 25.875rem;
+    height: 24.875rem;
+    flex-shrink: 0;
+}
 
 /*page principale*/
