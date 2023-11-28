@@ -116,7 +116,8 @@ height: 20.73006rem;
 
 #oeuvreartistes img{width: 15.875rem;
                     height: 15.95725rem;
-                    margin-right: 10px }
+                    margin-right: 10px;
+                    border-radius: 2.125rem;}
 
 /*a propos*/
 #Apropos {display:flex}
