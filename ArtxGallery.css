@@ -51,7 +51,7 @@ p {font-family: 'Inter', sans-serif;
   justify-content: center;
   margin-left: 50%;}
 
-#espace{height:50px}
+#espace{height:100px}
 
 h1 {font-family: 'Inter', sans-serif;
   font-size: 2.5em;
@@ -73,7 +73,7 @@ h4 {margin: -10px;
 
 /*page 2*/
 
-#contenu {margin-top: -10%;
+#contenu {margin-top: -4%;
   padding: 2%;
   background-color: #606082;
   border-radius: 3.375rem;
@@ -134,10 +134,14 @@ border-radius: 2.0625rem;}
             flex-direction: column;
             display: flex;}
 
-#Formulaire div{border-radius: 18px;
+#Formulaire div{padding: 1% 4%;
+                border-radius: 18px;
                 background: #C6C6F1;
                 text-align: center; 
-                color:black;}
+                color:black;
+                margin: 3%;}
+#Formulaire div label{position: absolute; color: gray;}
+
 button {font-size: 24px;
     width: 10.75rem;
     height: 3.0625rem;
