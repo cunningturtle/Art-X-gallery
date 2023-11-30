@@ -90,6 +90,8 @@ height: 20.73006rem;
  border-radius: 1.6875rem;
   margin-right: 37px;}
 
+#oeuvre p {width:70%}
+
 
 
 /*artistes*/
@@ -100,12 +102,15 @@ height: 20.73006rem;
               width: 18.25rem;
               height: 19.51444rem;
               border-radius: 1.6875rem;}
+#artistes p{width:70%; margin-left: 20%}
 
-#citation {color:#C4C5FF;font-size: 2.25rem;}
+#citation {color:#C4C5FF;
+           font-size: 2.25rem;
+           margin: 10% 5%;}
 #auteur {font-size: 1.25rem;}
 
 /*artiste page indiviuel*/
-#Artiste {display:flex}
+#Artiste {display:flex; margin:10%}
 #artistetext{margin: 1% 5% 1% 5%}
 #artistetext h3{text-decoration-line: underline;}
 
@@ -122,7 +127,7 @@ height: 20.73006rem;
                     border-radius: 2.125rem;}
 
 /*a propos*/
-#Apropos {display:flex}
+#Apropos {display:flex; margin: 10%}
 #Apropos img{width: 24.1875rem;
 height: 36.25rem;
 border-radius: 2.0625rem;}
@@ -156,7 +161,8 @@ button {font-size: 24px;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-top: -10%;
+  margin-top: -10%; 
+  color:white;
 }
 
 /*  
