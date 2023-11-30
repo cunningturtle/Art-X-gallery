@@ -51,6 +51,8 @@ p {font-family: 'Inter', sans-serif;
   justify-content: center;
   margin-left: 50%;}
 
+#espace{height:50px}
+
 h1 {font-family: 'Inter', sans-serif;
   font-size: 2.5em;
 }
@@ -71,7 +73,7 @@ h4 {margin: -10px;
 
 /*page 2*/
 
-#contenu {
+#contenu {margin-top: -10%;
   padding: 2%;
   background-color: #606082;
   border-radius: 3.375rem;
