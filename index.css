@@ -8,6 +8,7 @@ body {
   background-color: #30223E;
   display:flex;
   align-items:center;
+  height: 100vh;
 } 
 img{
     width: 25.875rem;
