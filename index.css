@@ -9,6 +9,9 @@ body {
   display:flex;
   align-items:center;
   height: 100vh;
+  color: white;
+  margin-right: 15%;
+  margin-left: 15%;
 } 
 img{
     width: 25.875rem;
