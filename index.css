@@ -15,5 +15,9 @@ img{
     border-radius: 25.875rem;
 }
 div{ 
+  display: flex;
+  flex-direction: column;
+  }
+  
     
 /*page principale*/
