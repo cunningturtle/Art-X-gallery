@@ -80,7 +80,7 @@ h4 {margin: -10px;
   border-radius: 3.375rem;
   color: #fff;
   font-size: 1.25rem;}
-
+#section{marin-bottom:2%}
 #oeuvre {
   display: flex;
   overflow: scroll;
@@ -96,8 +96,9 @@ height: 20.73006rem;
 
 
 /*artistes*/
-#artistes{display: flex;
-    overflow: scroll;}
+#artistes{margin-left: 3%;
+          display: flex;
+          overflow: scroll;}
 
 #artistes img{margin-right: 37px;
               width: 18.25rem;
@@ -146,7 +147,7 @@ border-radius: 2.0625rem;}
                 margin: 3%;}
 #Formulaire div label{position: absolute; color: gray;}
 
-input {border: none; background:#C6C6F1}
+input {border: none; outline: none;background:#C6C6F1}
 
 
 
@@ -162,6 +163,7 @@ button {font-size: 24px;
   background-color: #30223e;
   border-radius: 26px 26px 0px 0px;
   display: flex;
+  align-items: center;
   flex-direction: column;
   justify-content: center;
   margin-top: -10%; 
