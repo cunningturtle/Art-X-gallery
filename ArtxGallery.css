@@ -11,6 +11,7 @@ p {font-family: 'Inter', sans-serif;
 
 /*page 1*/
 #page1 {background-image: url("imagess/fond.jpeg"); 
+        background-size: cover;
         background-color: #C4C5FF;
         background-repeat: no-repeat;
 }
@@ -144,6 +145,10 @@ border-radius: 2.0625rem;}
                 color:black;
                 margin: 3%;}
 #Formulaire div label{position: absolute; color: gray;}
+
+input {border: none; background:#C6C6F1}
+
+
 
 button {font-size: 24px;
     width: 10.75rem;
