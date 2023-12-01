@@ -80,7 +80,8 @@ h4 {margin: -10px;
   border-radius: 3.375rem;
   color: #fff;
   font-size: 1.25rem;}
-#section{marin-bottom:2%}
+
+#section{margin-bottom:10%}
 #oeuvre {
   display: flex;
   overflow: scroll;
@@ -121,7 +122,7 @@ height: 20.73006rem;
              flex-shrink: 0;
              border-radius: 2.375rem;}
 
-#oeuvreartistes {display: flex; margin: 0% 5%}
+#oeuvreartistes {display: flex; margin: 0% 5% 10%}
 
 #oeuvreartistes img{width: 15.875rem;
                     height: 15.95725rem;
