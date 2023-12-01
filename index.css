@@ -1,8 +1,7 @@
 /*index*/
   
 body {
-  padding: 0%;
-  margin: 0%;
+  margin:0%
   text-align: justify;
   font-family: Inter;
   background-color: #30223E;
@@ -10,8 +9,8 @@ body {
   align-items:center;
   height: 100vh;
   color: white;
-  margin-right: 15%;
-  margin-left: 15%;
+  padding-right: 15%;
+  padding-left: 15%;
 } 
 img{
     width: 25.875rem;
