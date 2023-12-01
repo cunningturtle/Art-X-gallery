@@ -110,7 +110,7 @@ height: 20.73006rem;
 #auteur {font-size: 1.25rem;}
 
 /*artiste page indiviuel*/
-#Artiste {display:flex; margin:10%}
+#Artiste {display:flex; margin:2% 10%}
 #artistetext{margin: 1% 5% 1% 5%}
 #artistetext h3{text-decoration-line: underline;}
 
@@ -119,11 +119,11 @@ height: 20.73006rem;
              flex-shrink: 0;
              border-radius: 2.375rem;}
 
-#oeuvreartistes {display: flex;}
+#oeuvreartistes {display: flex; margin: 0% 5%}
 
 #oeuvreartistes img{width: 15.875rem;
                     height: 15.95725rem;
-                    margin-right: 10px;
+                    margin-right: 20px;
                     border-radius: 2.125rem;}
 
 /*a propos*/
@@ -134,15 +134,13 @@ border-radius: 2.0625rem;}
 #Apropos section{margin: 5%;}
 
 /*formulaire*/
-#Formulaire{margin:  100px 50px 230px 50px;
-            align-items: center;
+#Formulaire{margin: 10% 20% 30% 20%;
             flex-direction: column;
             display: flex;}
 
-#Formulaire div{padding: 1% 4%;
+#Formulaire div{padding: 1% 10%;
                 border-radius: 18px;
-                background: #C6C6F1;
-                text-align: center; 
+                background: #C6C6F1; 
                 color:black;
                 margin: 3%;}
 #Formulaire div label{position: absolute; color: gray;}
@@ -150,7 +148,7 @@ border-radius: 2.0625rem;}
 button {font-size: 24px;
     width: 10.75rem;
     height: 3.0625rem;
-    border-radius: 1.125rem;;
+    border-radius: 1.125rem;
     background: #C6C6F1;
     float: right}
 
