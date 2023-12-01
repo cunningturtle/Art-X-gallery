@@ -18,6 +18,12 @@ div{
   display: flex;
   flex-direction: column;
   }
+button {font-size: 24px;
+    width: 10.75rem;
+    height: 3.0625rem;
+    border-radius: 1.125rem;;
+    background: #C6C6F1;
+    float: right}
   
     
 /*page principale*/
