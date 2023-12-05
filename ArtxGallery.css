@@ -5,9 +5,7 @@ body {
   font-family: Inter;
 }
 
-p {font-family: 'Inter', sans-serif;
-  font-size: 14px;
-}
+p {font-family: 'Inter', sans-serif;}
 
 /*page 1*/
 #page1 {background-image: url("imagess/fond.jpeg"); 
@@ -92,15 +90,14 @@ height: 20.73006rem;
  border-radius: 1.6875rem;
   margin-right: 37px;}
 
-.figcaption{color: #FFF;
-          font-size: 1.25rem;
-         text-align: center;
-         background: rgba(0, 0, 0, 0.35);
-         margin-top: 14.67rem;
-         border-radius: 0rem 0rem 1.6875rem 1.6875rem;
-         width: 19.4375rem;
-         height: 6.0625rem;
-         position: absolute;}
+.figcaption #nomoeuvre{color: #FFF;
+                       font-size: 1.25rem;text-align: center;
+                       background: rgba(0, 0, 0, 0.35);
+                       margin-top: 14.67rem;
+                       border-radius: 0rem 0rem 1.6875rem 1.6875rem;
+                       width: 19.4375rem;
+                       height: 6.0625rem;
+                       position: absolute;}
 
 #oeuvre p {width:70%}
 
@@ -109,13 +106,15 @@ height: 20.73006rem;
 /*artistes*/
 #artistes{margin-left: 3%;
           display: flex;
-          overflow: scroll;}
+          overflow: scroll;
+          justify-content: center;}
 
 #artistes img{margin-right: 37px;
               width: 18.25rem;
               height: 19.51444rem;
-              border-radius: 1.6875rem;}
-#artistes p{width:70%; margin-left: 20%}
+              border-radius: 1.6875rem; 
+              object-fit:cover}
+#section p{width:70%; margin-left: 20%}
 
 #citation {color:#C4C5FF;
            font-size: 2.25rem;
@@ -150,8 +149,8 @@ border-radius: 2.0625rem;}
 #Formulaire{margin: 10% 20% 30% 20%;
             flex-direction: column;
             display: flex;}
-
-#Formulaire div{padding: 1% 10%;
+#Formulare #titre{justify-content: center}
+#Formulaire div{padding: 2% 4%;
                 border-radius: 18px;
                 background: #C6C6F1; 
                 color:black;
