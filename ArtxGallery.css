@@ -92,14 +92,15 @@ height: 20.73006rem;
  border-radius: 1.6875rem;
   margin-right: 37px;}
 
-nomoeuvre{color: #FFF;
-          text-align: center;
+.figcaption{color: #FFF;
           font-size: 1.25rem;
-          width: 19.4375rem;
-          height: 6.0625rem;
-          border-radius: 0rem 0rem 1.6875rem 1.6875rem;
-          background: rgba(0, 0, 0, 0.35);
-          position: absolute}
+         text-align: center;
+         background: rgba(0, 0, 0, 0.35);
+         margin-top: 14.67rem;
+         border-radius: 0rem 0rem 1.6875rem 1.6875rem;
+         width: 19.4375rem;
+         height: 6.0625rem;
+         position: absolute;}
 
 #oeuvre p {width:70%}
 
