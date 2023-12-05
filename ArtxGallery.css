@@ -150,7 +150,7 @@ border-radius: 2.0625rem;}
 #Formulaire{margin: 10% 20% 30% 20%;
             flex-direction: column;
             display: flex;}
-#Formulare #titreF{justify-content: center}
+#Formulare #titreF{justify-content: center; text-align:center}
 #Formulaire div{padding: 2% 4%;
                 border-radius: 18px;
                 background: #C6C6F1; 
