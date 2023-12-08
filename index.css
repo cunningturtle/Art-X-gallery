@@ -6,6 +6,8 @@
   button { 
     width: 5.4375rem;
     height: 3.03331rem;}  
+  h1{ text-align: center;}
+  
 }
     
 body {
@@ -38,7 +40,6 @@ button {
        }
 h1{ 
   color: white;
-  justify-content: center;
   }
     
 /*page principale*/
