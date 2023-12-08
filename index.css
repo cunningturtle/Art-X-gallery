@@ -5,8 +5,11 @@
     flex-direction: column; }
   button { 
     width: 5.4375rem;
-    height: 3.03331rem;}  
+    height: 3.03331rem;
+    align-item: center;
+  }  
   h1{ text-align: center;}
+  
   
 }
     
