@@ -90,14 +90,18 @@ height: 20.73006rem;
  border-radius: 1.6875rem;
   margin-right: 37px;}
 
-figcaption {color: #FFF;
-                       font-size: 1.25rem;text-align: center;
-                       background: rgba(0, 0, 0, 0.35);
-                       margin-top: 14.67rem;
-                       border-radius: 0rem 0rem 1.6875rem 1.6875rem;
-                       width: 19.4375rem;
-                       height: 6.0625rem;
-                       position: absolute;}
+figcaption {visibility: hidden;
+            color: #FFF;
+            margin-top: -101px;       
+            font-size: 1.25rem;
+            text-align: center;
+            background: rgba(0, 0, 0, 0.35);
+            border-radius: 0rem 0rem 1.6875rem 1.6875rem;
+            width: 19.4375rem;
+            height: 6.0625rem;
+            position:relative;}
+
+figcaption :hover{visibility: visible;}
 
 #oeuvre p {width:70%}
 
