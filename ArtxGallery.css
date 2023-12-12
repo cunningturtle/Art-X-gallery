@@ -101,7 +101,7 @@ figcaption {visibility: hidden;
             height: 6.0625rem;
             position:relative;}
 
-figcaption :hover{visibility: visible;}
+figcaption img:hover{visibility: visible;}
 
 #oeuvre p {width:70%}
 
