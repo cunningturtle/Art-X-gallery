@@ -101,7 +101,7 @@ figcaption {visibility: hidden;
             height: 6.0625rem;
             position:relative;}
 
-.figcaption img:hover{visibility: visible;}
+figcaption:hover{visibility: visible;}
 
 #oeuvre p {width:70%}
 
@@ -109,7 +109,7 @@ figcaption {visibility: hidden;
 
 /*artistes*/
 #sectionA{margin-left: 6%; margin-bottom:10%}
-#sectionA p{margin-left:20%; width:45%}
+#sectionA p{margin-left:20%}
 #artistes{display: flex;
           overflow: scroll;}
 
@@ -223,12 +223,17 @@ button {font-size: 24px;
     width: 13.75rem;
     height: 14.375rem;}
   
+  #sectionA{margin-left: 3%;}
+  
   #Apropos img {
     object-fit: cover;
     width: 7.125rem;
     height: 58.625rem;}
+  
+  #Formulaire {
+    margin: 10% 15% 30% 15%;}
 
-  #copyright {margin-top:-10%}
+  #copyright {margin-top:-20%}
 
 }
 
