@@ -71,7 +71,8 @@ h4 {margin: -10px;
 
 /*page 2*/
 
-#section p{max-width:70%}
+#section p{max-width:70%; margin-left:3%}
+#section h2{margin-left:3%}
 
 #contenu {margin-top: -4%;
   padding: 6% 2%;
@@ -101,7 +102,7 @@ figcaption {visibility: hidden;
             height: 6.0625rem;
             position:relative;}
 
-figcaption:hover{visibility: visible;}
+figcaption .container:hover{visibility: visible;}
 
 #oeuvre p {width:70%}
 
