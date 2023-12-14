@@ -102,7 +102,7 @@ figcaption {visibility: hidden;
             height: 6.0625rem;
             position:relative;}
 
-img figcaption:hover{visibility: visible;}
+.container img figcaption:hover{visibility: visible;}
 
 #oeuvre p {width:70%}
 
@@ -268,7 +268,7 @@ button {font-size: 24px;
   #artistetext h2{ max-width: 25%;}
   #artistetext p {
     width: auto;
-    margin-top: 14.2rem;}
+    margin-top: 12rem;}
     #Formulaire {
     margin: 10% 2% 30% 2%;}
 }
