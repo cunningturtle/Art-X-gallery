@@ -188,7 +188,7 @@ button {font-size: 24px;
   color:white;
 }
 
-@media only screen and (max-width:861px){
+@media screen and (max-width:861px){
   #page1{flex-direction: column;
     display: flex;}
   #barre {width: 90%; margin:auto}
@@ -243,7 +243,7 @@ button {font-size: 24px;
 }
 
 
-@media only screen and (max-width:441px){
+@media screen and (max-width:441px){
   #menu {
     padding: 5% 2%; width: 100%;}
   
@@ -258,8 +258,7 @@ button {font-size: 24px;
     color: #C4C5FF;
     font-size: 2.25rem;
     margin: 20% 5%;}
-  #auteur {
-    margin-top: -20%;}
+ 
   #Artiste img {
     margin-left: 37%;
     position: absolute;}
